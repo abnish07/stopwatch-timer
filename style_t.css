@@ -1,0 +1,31 @@
+#display-timer{
+    text-align: center;
+    margin: 50px;
+    font-size: 32px;
+    display: block;
+}
+.button{
+    text-align: center;
+    margin: 30px;
+    
+
+}
+
+#line{
+    background-color: red;
+    height: 10px;
+    
+}
+
+button{
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    font-size: 24px;
+    padding: 20px;
+    margin: 10px;
+}
+
+button:hover{
+    background-color: red;
+}
